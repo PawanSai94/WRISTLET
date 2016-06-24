@@ -8,3 +8,10 @@ Temperature and Humidity sensor.
 
 The recorded data is automatically synced to the website [www.wristlet.in](www.wristlet.in) and android app (downloadable at website) using Wi-Fi.
 
+
+![http://i.imgur.com/wiee8Ao.jpg](http://i.imgur.com/wiee8Ao.jpg)
+
+![http://i.imgur.com/rpEDvQR.jpg](http://i.imgur.com/rpEDvQR.jpg)
+
+
+### For other images please [see this album](http://imgur.com/a/ypfeH)
